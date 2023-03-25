@@ -66,9 +66,4 @@ Swagger
 接口文档访问路径为 http://localhost:8080/doc.html
 ![img.png](img/Swagger.png)
 
-## **项目效果展示**
 
-管理员展示
-![img.png](img/reggie.png)
-小程序展示
-![img.png](img/小程序.png)
