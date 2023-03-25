@@ -5,7 +5,8 @@
 熊猫外卖项目，一款为餐饮企业打造的在线订餐软件  
 
 技术选型
-![img.png](../../Documents/%E8%BF%9B%E5%A4%A7%E5%8E%82%20---%20Tao/Typora/%E5%9B%BE%E7%89%87/1.png)
+![项目所用技术](https://user-images.githubusercontent.com/121293121/227679705-52cf0ca8-230b-4d51-b8bb-6bbb741df58b.png)
+
 
 ## 技术架构
 
