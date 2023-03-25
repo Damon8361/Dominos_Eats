@@ -1,8 +1,8 @@
-# Panda-takeaway
+# Domino‘s_Eats
 
 ## Introduction
 
-Panda Takeaway Project, an online food ordering software for caterers   
+Domino‘s_Eats Project, an online food ordering software for caterers   
 
 Technology selection
 
