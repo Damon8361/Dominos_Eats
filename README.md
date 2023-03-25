@@ -60,10 +60,5 @@ https://www.aliyundrive.com/s/ivQsVr2ZhoN
 
 导入到微信开发者工具
 
-### 后端工程
-
-Swagger  
-接口文档访问路径为 http://localhost:8080/doc.html
-![img.png](img/Swagger.png)
 
 
