@@ -1,14 +1,14 @@
 # Panda-takeaway
 
-## 介绍
+## Introduction
 
-熊猫外卖项目，一款为餐饮企业打造的在线订餐软件  
+Panda Takeaway Project, an online food ordering software for caterers   
 
 技术选型
 ![项目所用技术](https://user-images.githubusercontent.com/121293121/227679705-52cf0ca8-230b-4d51-b8bb-6bbb741df58b.png)
 
 
-## 技术架构
+## Technical Architecture
 
 Spring Boot
 Mybatis
@@ -18,9 +18,9 @@ JWT
 Apache POI
 Spring Task
 阿里云OSS
-微信小程序
+WeChat Applet
 
-## 开发环境
+## Development environment
 
 1. JDK 1.8
 2. IntelliJ IDEA 2022.1.2
@@ -28,37 +28,37 @@ Spring Task
 4. Node.js v16.15.1
 5. Redis 7.0
 6. MySQL 5.6.22
-7. 微信开发者工具
+7. WeChat Developer Tools
 
-## 前后端分离开发
+## Separate front and back-end development
 
-### 介绍
+### Project introction
 
-|          | **开发语言**     | **开发工具**      | **运行环境** | **服务器** |
-| -------- | ---------------- | ----------------- | ------------ | ---------- |
-| 前端开发 | JavaScript、HTML | VS Code、Hbuilder | Node.js      | Nginx      |
-| 后端开发 | Java             | IDEA、eclipse     | JDK          | Tomcat     |
+|          | **language**     |      **tools**    | **Operating environment** | **Servers** |
+| -------- | ---------------- | ----------------- | --------------------------| ----------  |
+| front-end | JavaScript、HTML   | VS Code、Hbuilder |         Node.js           |   Nginx     |
+| back-end | Java               | IDEA、eclipse     |         JDK               |  Tomcat     |
 
-### 前端工程
+### Front-end services
 
 ------
 
-员工后台「project-rjwm-admin-vue-ts.exe」
+Staff Back Service「project-rjwm-admin-vue-ts.exe」
 https://www.aliyundrive.com/s/AnRReoe66dQ
-双击解压即可  
-根目录cmd运行 npm run serve
+Just double click to unzip  
+Root directory cmd run: npm run serve
 
-访问前端工程，地址：http://localhost:8081
+Visit the front-end project at：http://localhost:10086
 
 ------
 
-小程序源码 「mp-weixin.exe」
+wechat applet source code「mp-weixin.exe」
 
 https://www.aliyundrive.com/s/ivQsVr2ZhoN 
 
-双击解压
+Double click to unzip
 
-导入到微信开发者工具
+Import into WeChat Developer Tools
 
 
 
