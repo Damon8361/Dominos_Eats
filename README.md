@@ -4,9 +4,14 @@
 
 Panda Takeaway Project, an online food ordering software for caterers   
 
-技术选型
-![项目所用技术](https://user-images.githubusercontent.com/121293121/227679705-52cf0ca8-230b-4d51-b8bb-6bbb741df58b.png)
+Technology selection
 
+| -------- | ---------------- | ----------------- | --------------------------| ----------  |
+| User Layer | H5   | VUR.js |        ElementUI         |   WeChat applet    |
+| Gateway Layer| Nginx |
+| Application Layer | Spring Boot  | Spring Mvc |         Spring Session          |  Spring    |
+| Application Layer | Swagger  | lombok |  
+| Data Layer| Mysql         |Mybatis   |        Mybatis Plus             |  Redis    |
 
 ## Technical Architecture
 
